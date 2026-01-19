@@ -10,7 +10,7 @@ plugins:
   - jekyll-include-cache
 
 
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dark"
 
 # This enables the top navigation
 defaults:
