@@ -9,7 +9,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: air
 
 # This enables the top navigation
 defaults:
