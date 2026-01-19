@@ -27,3 +27,14 @@ html, body {
   padding-top: 0;
   padding-bottom: 0;
 }
+
+/* Hide the entire footer (removes "Powered by" too) */
+.page__footer {
+  display: none !important;
+}
+
+/* Hide just the footer copyright/powered-by line */
+.page__footer-copyright {
+  display: none !important;
+}
+
