@@ -32,10 +32,12 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:scrawfordcareer@gmail.com"
 
+# Removes the built in footer with RSS and 'Powered By' 
 atom_feed:
   hide: true
-
 footer:
   enabled: false
+powered_by: false
+
   
 copyright: "Sasha Crawford"
