@@ -12,6 +12,8 @@ Desc
 **Tools/tech:** 
 **Link:** Repo 
 
+[View projects](/projects)
+
 ## Contact 
 Email: sc3908@desales.edu
 GitHub: https://github.com/sashaelle
