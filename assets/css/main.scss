@@ -31,3 +31,6 @@ html, body {
   padding-top: 0;
   padding-bottom: 0;
 }
+
+/* DEBUG: if you see hot pink links, this file is definitely loading */
+a, a:visited { color: hotpink !important; }
