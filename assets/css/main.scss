@@ -28,6 +28,11 @@ html, body {
   padding-bottom: 0;
 }
 
+/* Center page titles (Home, Projects, About, etc.) */
+.page__title {
+  text-align: center;
+}
+
 /* Hide the entire footer (removes "Powered by" too) */
 .page__footer {
   display: none !important;
