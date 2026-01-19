@@ -1,7 +1,7 @@
 --- 
 title: "Contact" 
 layout: single
-permalink: /about/ 
+permalink: /contact/ 
 ---
 
 - Email: sc3908@desales.edu
