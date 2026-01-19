@@ -5,6 +5,9 @@ permalink: /
 author_profile: false
 ---
 # Sasha Crawford
+
+![Portrait of Sasha Crawford](/portfolio/assets/images/testpic.jpg){: .align-left width="240px"}
+
 Student • Computer Science • DeSales University
 
 I’m a senior studying **Computer Science** with interests in **Information Technology**, **Cybersecurity**, and **Programming**.  
