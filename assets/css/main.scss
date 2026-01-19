@@ -1,0 +1,11 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Sticky top navigation (masthead) */
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+}
