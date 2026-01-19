@@ -16,6 +16,7 @@ defaults:
   - scope:
       path: ""
     values:
+      author_profile: true
       layout: single
 
 sticky_nav: true
@@ -24,9 +25,9 @@ author:
   name: "Sasha Crawford"
   bio: "Student in [Major]. Interested in [topics]."
   links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/sashaelle"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/sasha-crawford/"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:you@example.com"
+      url: "mailto:scrawfordcareer@gmail.com"
