@@ -1,0 +1,17 @@
+title: Sasha's Portfolio
+description: Projects for class
+url: "https://sashaelle.github.io"
+baseurl: "/portfolio"   # because your repo is sashaelle/portfolio
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: "default"
+
+# This enables the top navigation
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
