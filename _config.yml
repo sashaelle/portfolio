@@ -32,6 +32,10 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:scrawfordcareer@gmail.com"
 
+atom_feed:
+  hide: true
+
 footer:
-  links: []
+  enabled: false
+  
 copyright: "Sasha Crawford"
