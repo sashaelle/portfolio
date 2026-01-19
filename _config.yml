@@ -17,3 +17,16 @@ defaults:
       path: ""
     values:
       layout: single
+
+sticky_nav: true
+
+author:
+  name: "Sasha Crawford"
+  bio: "Student in [Major]. Interested in [topics]."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sashaelle"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:you@example.com"
