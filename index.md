@@ -12,7 +12,7 @@ Desc
 **Tools/tech:** 
 **Link:** Repo 
 
-[View projects](/portfolio/projects)
+[View projects](/projects)
 
 ## Contact 
 Email: sc3908@desales.edu
