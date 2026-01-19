@@ -9,3 +9,20 @@
   top: 0;
   z-index: 9999;
 }
+
+/* Remove the gap above the top bar */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.masthead {
+  top: 0;          /* keep it pinned */
+  margin-top: 0;   /* remove any top margin */
+}
+
+/* Tighten the masthead’s internal spacing */
+.masthead__inner-wrap {
+  padding-top: 0;
+  padding-bottom: 0;
+}
