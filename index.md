@@ -7,5 +7,5 @@ author_profile: false
 
 Student - Computer Science - DeSales University
 
-[View Projects →](/portfolio/projects/)  
-[About Me →](/portfolio/about/)
+[View Projects](/portfolio/projects/){: .btn .btn--primary }{: .btn .btn--primary }
+[About Me](/portfolio/about/){: .btn .btn--info }
