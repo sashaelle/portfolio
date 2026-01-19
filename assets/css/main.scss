@@ -1,11 +1,7 @@
 ---
-# Only the main Sass file needs front matter (the dashes above)
 ---
 
-/* IMPORTANT: this line makes your skin setting (contrast) actually apply */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-
-/* Then load the theme */
+@import "minimal-mistakes/skins/contrast";
 @import "minimal-mistakes";
 
 /* --- Your custom tweaks below --- */
@@ -31,6 +27,3 @@ html, body {
   padding-top: 0;
   padding-bottom: 0;
 }
-
-/* DEBUG: if you see hot pink links, this file is definitely loading */
-a, a:visited { color: hotpink !important; }
