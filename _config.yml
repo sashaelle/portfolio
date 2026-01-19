@@ -11,15 +11,12 @@ plugins:
 
 minimal_mistakes_skin: contrast
 
-# This enables the top navigation
 defaults:
   - scope:
       path: ""
     values:
       author_profile: true
       layout: single
-
-sticky_nav: true
 
 author:
   name: "Sasha Crawford"
@@ -31,17 +28,3 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:scrawfordcareer@gmail.com"
-
-# Removes the built in footer with RSS and 'Powered By' 
-#atom_feed:
-#  hide: true
-#footer:
-#  enabled: false
-#powered_by: false
-
-.page__footer {
-  display: none !important;
-}
-
-  
-# copyright: "Sasha Crawford"
