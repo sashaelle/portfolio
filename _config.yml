@@ -33,11 +33,15 @@ author:
       url: "mailto:scrawfordcareer@gmail.com"
 
 # Removes the built in footer with RSS and 'Powered By' 
-atom_feed:
-  hide: true
-footer:
-  enabled: false
-powered_by: false
+#atom_feed:
+#  hide: true
+#footer:
+#  enabled: false
+#powered_by: false
+
+.page__footer {
+  display: none !important;
+}
 
   
-copyright: "Sasha Crawford"
+# copyright: "Sasha Crawford"
