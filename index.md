@@ -2,6 +2,7 @@
 title: Sasha Crawford
 layout: single
 permalink: /
+author_profile: true
 ---
 
 # Saha Crawford
