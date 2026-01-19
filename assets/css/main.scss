@@ -1,7 +1,14 @@
 ---
+# Only the main Sass file needs front matter (the dashes above)
 ---
 
+/* IMPORTANT: this line makes your skin setting (contrast) actually apply */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+
+/* Then load the theme */
 @import "minimal-mistakes";
+
+/* --- Your custom tweaks below --- */
 
 /* Sticky top navigation (masthead) */
 .masthead {
@@ -17,11 +24,9 @@ html, body {
 }
 
 .masthead {
-  top: 0;          /* keep it pinned */
-  margin-top: 0;   /* remove any top margin */
+  margin-top: 0;
 }
 
-/* Tighten the masthead’s internal spacing */
 .masthead__inner-wrap {
   padding-top: 0;
   padding-bottom: 0;
