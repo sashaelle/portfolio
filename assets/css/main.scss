@@ -28,6 +28,12 @@ html, body {
   padding-bottom: 0;
 }
 
+.site-title {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 500;
+}
+
+
 /* Center page titles (Home, Projects, About, etc.) */
 .page__title {
   text-align: center;
