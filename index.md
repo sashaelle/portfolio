@@ -4,7 +4,7 @@ permalink: /
 author_profile: false
 ---
 
-# Saha Crawford
+# Sasha Crawford
 Student - Computer Science - DeSales University
 
 [View Projects →](/portfolio/projects/)  
