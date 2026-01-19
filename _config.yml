@@ -31,3 +31,7 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:scrawfordcareer@gmail.com"
+
+footer:
+  links: []
+copyright: "© 2026 Sasha Crawford"
