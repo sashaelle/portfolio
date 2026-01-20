@@ -3,7 +3,7 @@ description: Portfolio
 url: "https://sashaelle.github.io"
 baseurl: "/portfolio"
 
-favicon: /portfolio/assets/images/icon.png
+favicon: "/portfolio/assets/images/icon.png"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
