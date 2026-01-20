@@ -2,6 +2,8 @@
 title: "Projects"
 layout: single
 permalink: /projects/
+toc: true
+toc_sticky: true
 ---
 
 Below are selected academic and personal projects. Some are complete, while others are currently in progress or in the planning stage.
