@@ -21,7 +21,7 @@ This site serves as a portfolio of my coursework and personal projects.
 ## Featured projects
 ### Appointment Slot Scheduler (In progress)
 A scheduling concept for booking exam retake time slots with limited capacity.  
-[View](/projects/#appointment-slot-scheduler)
+[View](/portfolio/projects/#appointment-slot-scheduler)
 
 ## Explore
 [Projects](/portfolio/projects/) • [About](/portfolio/about/) • [Contact](/portfolio/contact/)
