@@ -59,22 +59,3 @@ GitHub Pages, Markdown, Jekyll theme customization
 
 ---
 
-## [Project Name]
-**Status:** Idea  
-
-**Overview:**  
-A brief description of the project and its intended purpose.
-
-**Problem it addresses:**  
-What issue, need, or question the project focuses on.
-
-**What I’ve done so far:**  
-- Initial brainstorming  
-- Defined goals and constraints  
-
-**Tools / Methods:**  
-Research, planning
-
-**Next steps:**  
-- Expand project scope  
-- Determine tools and technologies needed
