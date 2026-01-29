@@ -48,6 +48,7 @@ CREATE TABLE "collegedata" (
 Here are the variables, their descriptions, their units, their types, and some descriptive statistics.
 
 **Categoriacal Variables**
+
 | Variable | Description |
 |---------|-------------|
 | unitid | The institution's unique id | 
@@ -61,12 +62,14 @@ Here are the variables, their descriptions, their units, their types, and some d
 | year | Year in which institutional data was collected |
 
 **Quantitative Discrete Variables**
+
 | Variable | Description |
 |---------|-------------|
 | tuitionfee_in | In-state tuition cost (USD) |
 | tuitionfee_out | Out-of-state tuition cost (USD) |
 
 **Quantitative Continuous Variables**
+
 | Variable | Description |
 |---------|-------------|
 | adm_rate | Institutional admission rate (0–1 scale) |
