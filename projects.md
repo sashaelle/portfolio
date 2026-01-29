@@ -11,6 +11,18 @@ Below are selected academic and personal projects. Some are complete, while othe
 
 ---
 
+## University Dataset Analysis (2001–2022)
+**Course:** CS-416 Security (SP24)  
+**Team:** Sasha Crawford, Dylan Tomza  
+
+Analysis of College Scorecard institutional data including admissions, SAT scores, and tuition patterns across years and institution types.
+
+**Tools/Skills:** SQL schema design, data cleaning, correlation analysis, visualization
+
+- [View project page](/portfolio/university-dataset.md)
+- [Open notebook in Colab](https://colab.research.google.com/drive/1NsTyTMA86fTWrcpy5V6pUvCdXAVWt10p?usp=drive_link)
+
+
 ## Appointment Slot Scheduler
 **Status:** In progress  
 
@@ -58,17 +70,4 @@ GitHub Pages, Markdown, Jekyll theme customization
 - Continue updating content  
 
 ---
-
----
-
-## University Dataset Analysis (2001–2022)
-**Course:** CS-416 Security (SP24)  
-**Team:** Sasha Crawford, Dylan Tomza  
-
-Analysis of College Scorecard institutional data including admissions, SAT scores, and tuition patterns across years and institution types.
-
-**Tools/Skills:** SQL schema design, data cleaning, correlation analysis, visualization
-
-- [View project page](/portfolio/assets/files/projects/university-dataset.md)
-- [Open notebook in Colab](https://colab.research.google.com/drive/1NsTyTMA86fTWrcpy5V6pUvCdXAVWt10p?usp=drive_link)
 
