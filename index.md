@@ -19,6 +19,10 @@ This site serves as a portfolio of my coursework and personal projects.
 - **Technical Skills:** Windows, Microsoft 365, Linux, SQL, and project documentation
 
 ## Featured projects
+### University Dataset Analysis
+Admissions, SAT, and tuition analysis using College Scorecard data. Includes schema and results.
+[View](/portfolio/projects/#university-dataset-analysis-20012022) 
+
 ### Appointment Slot Scheduler (In progress)
 A scheduling concept for booking exam retake time slots with limited capacity.  
 [View](/portfolio/projects/#appointment-slot-scheduler) 
