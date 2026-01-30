@@ -71,3 +71,6 @@ GitHub Pages, Markdown, Jekyll theme customization
 
 ---
 
+## Academic Research 
+[Network Design - CS-416: Security](assets/files/papers/CS-416_Final_Project_Counterman_Crawford.pdf)
+
