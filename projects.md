@@ -23,14 +23,14 @@ Analysis of College Scorecard institutional data including admissions, SAT score
 - [Open notebook in Colab](https://colab.research.google.com/drive/1NsTyTMA86fTWrcpy5V6pUvCdXAVWt10p?usp=drive_link)
 
 
-## Appointment Slot Scheduler
+## Exam Retake Scheduler
 **Status:** In progress  
 
 **Overview:**  
-A web-based scheduling concept designed to help offices manage limited appointment slots for exam retakes.
+A web-based scheduling program specifically for academic offices to schedule exam retakes. This program is aimed to satisfy all needs of a program assistant when scheduling retakes. 
 
 **Problem it addresses:**  
-Manual scheduling systems can lead to overbooking, confusion, and inefficient use of space.
+Manual scheduling systems can lead to overbooking, confusion, and inefficient use of space. The Exam Retake Scheduler is capacity aware and organized for multiple departments. The system aims to be aware of 
 
 **What I’ve done so far:**  
 - Defined the core problem and user needs  
