@@ -7,8 +7,6 @@ toc_sticky: true
 toc_label: Projects
 ---
 
-# Projects
-
 ## University Dataset Analysis (2001–2022)
 
 **Course:** CS-416 Security (SP24)  
