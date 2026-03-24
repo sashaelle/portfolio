@@ -7,9 +7,7 @@ toc_sticky: true
 toc_label: Projects
 ---
 
-Below are selected academic and personal projects. Some are complete, while others are currently in progress or in the planning stage.
-
----
+# Projects
 
 ## University Dataset Analysis (2001–2022)
 
@@ -32,21 +30,6 @@ A web-based scheduling program specifically for academic offices to schedule exa
 **Problem it addresses:**  
 Manual scheduling systems can lead to overbooking, confusion, and inefficient use of space. The Exam Retake Scheduler is capacity aware and organized for multiple departments. The system aims to be aware of
 
-**What I’ve done so far:**
-
-- Defined the core problem and user needs
-- Outlined scheduling constraints such as time slots and capacity
-- Sketched possible user flows for staff and students
-
-**Tools / Methods:**  
-Planning, user flow design, research
-
-**Next steps:**
-
-- Create interface mockups
-- Refine scheduling logic
-- Evaluate implementation options
-
 ---
 
 ## Personal Portfolio Website
@@ -59,22 +42,17 @@ A personal website built using GitHub Pages to organize and present coursework a
 **Problem it addresses:**  
 Projects are often scattered across platforms and difficult to present cohesively.
 
-**What I’ve done so far:**
-
-- Set up GitHub Pages hosting
-- Selected and customized a theme
-- Created structured pages for projects, about, and contact
-
-**Tools / Methods:**  
-GitHub Pages, Markdown, Jekyll theme customization
-
-**Next steps:**
-
-- Refine visual layout
-- Add screenshots or links as projects progress
-- Continue updating content
-
 ---
+
+## Blackjack Client Server Project
+
+**Status:** In progress
+
+**Overview:**  
+A client server connection based around a common card game Blackjack.
+
+**Problem it addresses:**  
+This project aims to streamline the process to running the game.
 
 ## Academic Research
 

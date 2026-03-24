@@ -4,6 +4,7 @@ layout: single
 permalink: /
 author_profile: false
 ---
+
 # Sasha Crawford
 
 ![Portrait of Sasha Crawford](/portfolio/assets/images/testpic.jpg){: .align-left width="240px"}
@@ -14,18 +15,23 @@ I’m a senior studying **Computer Science** with interests in **Information Tec
 This site serves as a portfolio of my coursework and personal projects.
 
 ## Highlights
+
 - **Education:** B.S. Computer Science, DeSales University (Expected May 2026, 3.69 GPA)
 - **Experience:** University technology support, technical documentation, and structured data management
 - **Technical Skills:** Windows, Microsoft 365, Linux, SQL, and project documentation
 
 ## Featured projects
-### University Dataset Analysis
-Admissions, SAT, and tuition analysis using College Scorecard data. Includes schema and results.
-[View](/portfolio/projects/#university-dataset-analysis-20012022) 
 
-### Appointment Slot Scheduler (In progress)
+### University Dataset Analysis
+
+Admissions, SAT, and tuition analysis using College Scorecard data. Includes schema and results.  
+[View](/portfolio/projects/#university-dataset-analysis-20012022)
+
+### Exam Retake Scheduler (In progress)
+
 A scheduling concept for booking exam retake time slots with limited capacity.  
-[View](/portfolio/projects/#appointment-slot-scheduler) 
+[View](/portfolio/projects/#appointment-slot-scheduler)
 
 ## Explore
+
 [Projects](/portfolio/projects/) • [About](/portfolio/about/) • [Contact](/portfolio/contact/)
