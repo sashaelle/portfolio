@@ -28,7 +28,7 @@ Admissions, SAT, and tuition analysis using College Scorecard data. Includes sch
 ### Exam Retake Scheduler (In progress)
 
 A scheduling concept for booking exam retake time slots with limited capacity.  
-[View](/portfolio/projects/#appointment-slot-scheduler)
+[View](/portfolio/projects/#exam-retake-scheduler)
 
 ## Explore
 
