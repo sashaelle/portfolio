@@ -11,5 +11,5 @@ I'm always open to discussing new opportunities, collaborations, or just connect
 
 #### Contact Information
 
-- **Email**: [sc3908@desales.edu](mailto:sc3908@desales.edu)
+- **Email**: [scrawfordcareer@gmail.com](mailto:scrawfordcareer@gmail.com)
 - **GitHub**: [https://github.com/sashaelle](https://github.com/sashaelle)
