@@ -9,7 +9,7 @@ author_profile: false
 
 Student • Computer Science • DeSales University
 
-I am a recent Computer Science Gradute with interestes in Information Technology, Cybersecurity, and Programming.  
+I am a recent Computer Science Gradute with interests in Information Technology, Cybersecurity, and Programming.  
 This site serves as a portfolio of my coursework and personal projects.
 
 ## Highlights
