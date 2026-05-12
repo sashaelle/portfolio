@@ -73,3 +73,7 @@ A client server connection based around a common card game Blackjack.
 ## Academic Research
 
 [Network Design - CS-416: Security](assets/files/papers/CS-416_Final_Project_Counterman_Crawford.pdf)
+
+[ZephyrOS - CS-314: Operating Systems](assets/files/papers/Case_Study_ZephyrOS.pdf)
+
+[Automating with Spiderfoot - CS-216: Cybersecurity](assets/files/papers/CS-216_Spiderfoot.pdf)
