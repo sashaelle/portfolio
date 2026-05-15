@@ -48,7 +48,7 @@ Analysis of College Scorecard institutional data including admissions, SAT score
 
 **Tools/Skills:** SQL schema design, data cleaning, correlation analysis, visualization
 
-- [View project page](/university-dataset.md)
+- [View project page](/project-pages/university-dataset.md)
 
 ---
 
