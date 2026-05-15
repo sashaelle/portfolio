@@ -15,7 +15,9 @@ toc_label: Projects
 A web-based scheduling program specifically for academic offices to schedule exam retakes. This program is aimed to satisfy all needs of a program assistant when scheduling retakes.
 
 **Problem it addresses:**  
-Manual scheduling systems can lead to overbooking, confusion, and inefficient use of space. The Exam Retake Scheduler is capacity aware and organized for multiple departments. The system aims to be aware of
+Manual scheduling systems can lead to overbooking, confusion, and inefficient use of space. The Exam Retake Scheduler is capacity aware and organized for multiple departments.
+
+- [View Project Manual](/assets/files/papers/RetakeManual.pdf)
 
 ---
 
